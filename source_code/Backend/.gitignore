@@ -1,0 +1,7 @@
+.idea
+**/__pycache__
+*.log
+*.pyc
+venv
+celerybeat-schedule.*
+properties.py
